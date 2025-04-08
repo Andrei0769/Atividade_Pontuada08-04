@@ -60,20 +60,6 @@ Response: 200 (OK) ou 404 (Not Found)
 - Campos obrigatórios validados
 - Tratamento de exceções personalizado
 
-## 📁 Estrutura do Projeto
-```
-src/main/java/com/atividadepoint/atvpontuada/
-├── controller/
-│   ├���─ FuncionarioController.java
-│   └── WelcomeController.java
-├── service/
-│   └── FuncionarioService.java
-├── model/
-│   └── Funcionario.java
-��── exception/
-    └── GlobalExceptionHandler.java
-```
-
 ## 🌟 Funcionalidades
 - CRUD completo de funcionários
 - Validação de dados
@@ -91,4 +77,4 @@ src/main/java/com/atividadepoint/atvpontuada/
 Desenvolvido por Andrei Luiz
 
 ## 📄 Licença
-Este projeto está sob a licença [tipo de licença]
+Este projeto está sob a licença [Publica]
